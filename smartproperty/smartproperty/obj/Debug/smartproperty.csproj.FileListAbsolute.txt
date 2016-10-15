@@ -1,0 +1,9 @@
+C:\Users\William\Desktop\smartproperty\smartproperty\bin\Debug\smartproperty.exe.config
+C:\Users\William\Desktop\smartproperty\smartproperty\bin\Debug\smartproperty.exe
+C:\Users\William\Desktop\smartproperty\smartproperty\bin\Debug\smartproperty.pdb
+C:\Users\William\Desktop\smartproperty\smartproperty\obj\Debug\smartproperty.csprojResolveAssemblyReference.cache
+C:\Users\William\Desktop\smartproperty\smartproperty\obj\Debug\smartproperty.Form1.resources
+C:\Users\William\Desktop\smartproperty\smartproperty\obj\Debug\smartproperty.Properties.Resources.resources
+C:\Users\William\Desktop\smartproperty\smartproperty\obj\Debug\smartproperty.csproj.GenerateResource.Cache
+C:\Users\William\Desktop\smartproperty\smartproperty\obj\Debug\smartproperty.exe
+C:\Users\William\Desktop\smartproperty\smartproperty\obj\Debug\smartproperty.pdb

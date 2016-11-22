@@ -10,3 +10,13 @@ C:\Users\William\Desktop\smartproperty\smartproperty\obj\Debug\smartproperty.pdb
 E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\bin\Debug\smartproperty.exe.config
 E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\obj\Debug\smartproperty.exe
 E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\obj\Debug\smartproperty.pdb
+E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\bin\Debug\smartproperty.exe
+E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\bin\Debug\smartproperty.pdb
+E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\bin\Debug\MetroFramework.Design.dll
+E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\bin\Debug\MetroFramework.dll
+E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\bin\Debug\MetroFramework.Fonts.dll
+E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\obj\Debug\smartproperty.csprojResolveAssemblyReference.cache
+E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\obj\Debug\smartproperty.Cart.resources
+E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\obj\Debug\smartproperty.Designer.resources
+E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\obj\Debug\smartproperty.Properties.Resources.resources
+E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\obj\Debug\smartproperty.csproj.GenerateResource.Cache

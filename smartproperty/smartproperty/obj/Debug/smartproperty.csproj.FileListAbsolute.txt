@@ -7,3 +7,6 @@ C:\Users\William\Desktop\smartproperty\smartproperty\obj\Debug\smartproperty.Pro
 C:\Users\William\Desktop\smartproperty\smartproperty\obj\Debug\smartproperty.csproj.GenerateResource.Cache
 C:\Users\William\Desktop\smartproperty\smartproperty\obj\Debug\smartproperty.exe
 C:\Users\William\Desktop\smartproperty\smartproperty\obj\Debug\smartproperty.pdb
+E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\bin\Debug\smartproperty.exe.config
+E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\obj\Debug\smartproperty.exe
+E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\obj\Debug\smartproperty.pdb

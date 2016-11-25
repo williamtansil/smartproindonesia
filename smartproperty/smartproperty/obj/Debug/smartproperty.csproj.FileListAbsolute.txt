@@ -20,3 +20,4 @@ E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\obj\Debug\smartpro
 E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\obj\Debug\smartproperty.Designer.resources
 E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\obj\Debug\smartproperty.Properties.Resources.resources
 E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\obj\Debug\smartproperty.csproj.GenerateResource.Cache
+E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\bin\Debug\MaterialSkin.dll

@@ -12,9 +12,9 @@ using MaterialSkin.Controls;
 
 namespace smartproperty
 {
-    public partial class Cart : Form
+    public partial class Board : Form
     {
-        public Cart()
+        public Board()
         {
             InitializeComponent();
         }
@@ -26,7 +26,7 @@ namespace smartproperty
 
         private void metroTile2_MouseDown(object sender, MouseEventArgs e)
         {
-            for (int _i = 59; _i <= 259; _i+=8) 
+            for (int _i = 59; _i <= 256; _i+=9) 
             {
                 sidemenu.Width = _i;
                 sidemenu.Update();
@@ -78,6 +78,11 @@ namespace smartproperty
         private void pictureBox1_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void Cart_Load(object sender, EventArgs e)
+        {
+            hometab.Select();
         }
     }
 }

@@ -21,3 +21,6 @@ E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\obj\Debug\smartpro
 E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\obj\Debug\smartproperty.Properties.Resources.resources
 E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\obj\Debug\smartproperty.csproj.GenerateResource.Cache
 E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\bin\Debug\MaterialSkin.dll
+E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\bin\Debug\Svg.dll
+E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\bin\Debug\Svg.pdb
+E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\bin\Debug\Svg.xml

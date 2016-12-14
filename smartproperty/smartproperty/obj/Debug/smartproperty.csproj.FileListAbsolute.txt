@@ -16,7 +16,6 @@ E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\bin\Debug\MetroFra
 E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\bin\Debug\MetroFramework.dll
 E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\bin\Debug\MetroFramework.Fonts.dll
 E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\obj\Debug\smartproperty.csprojResolveAssemblyReference.cache
-E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\obj\Debug\smartproperty.Cart.resources
 E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\obj\Debug\smartproperty.Designer.resources
 E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\obj\Debug\smartproperty.Properties.Resources.resources
 E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\obj\Debug\smartproperty.csproj.GenerateResource.Cache
@@ -24,3 +23,10 @@ E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\bin\Debug\Material
 E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\bin\Debug\Svg.dll
 E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\bin\Debug\Svg.pdb
 E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\bin\Debug\Svg.xml
+E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\obj\Debug\smartproperty.Board.resources
+E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\bin\Debug\MahApps.Metro.dll
+E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\bin\Debug\System.Windows.Interactivity.dll
+E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\bin\Debug\MahApps.Metro.pdb
+E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\bin\Debug\MahApps.Metro.xml
+E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\obj\Debug\smartproperty.login.resources
+E:\Projects\PKM\smartproindonesia\smartproperty\smartproperty\obj\Debug\smartproperty.register.resources
